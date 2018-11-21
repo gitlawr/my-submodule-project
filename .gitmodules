@@ -1,0 +1,3 @@
+[submodule "my-submodule-library"]
+	path = my-submodule-library
+	url = https://github.com/gitlawr/my-submodule-library.git
